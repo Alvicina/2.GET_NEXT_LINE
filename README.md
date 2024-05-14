@@ -1,4 +1,4 @@
-Nombre de función: get_next_line
+Nombre de función: get_next_line /n
 Prototipo: char *get_next_line(int fd);
 Archivos a entregar: get_next_line.c, get_next_line_utils.c, get_next_line.h
 Parámetros: fd) File descriptor del que leer
