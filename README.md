@@ -6,8 +6,7 @@ Yow will notice that there are some files with "bonus" written on them. This is 
 
 The get_next_line function is included in my libft library. It is not part of the libft project requirements but once you pass the get_next_line project, 42 camps allow us to use it as part of our libft functions in projects down the road. Same with the Ft_printf function.
 
-In the following pdf you can find the project requirements as specified by 42 campus:
+In the following pdf you can find the project requirements as specified by 42 campus: [README_GET_NEXT_LINE.pdf](https://github.com/Alvicina/Get_Next_Line/files/15310043/README_GET_NEXT_LINE.pdf)
 
-[README_GET_NEXT_LINE.pdf](https://github.com/Alvicina/Get_Next_Line/files/15310043/README_GET_NEXT_LINE.pdf)
-
+The following snapshot if proof that the project was succesfully done:
 <img width="1046" alt="Captura de pantalla 2024-09-01 a las 19 10 46" src="https://github.com/user-attachments/assets/d4b75d6f-181b-4cd5-8b67-4196abbd1701">
